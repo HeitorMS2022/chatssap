@@ -1,0 +1,21 @@
+.header{
+    color: yellow;
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+}
+body{
+    background-color: cyan;
+    text-align: center;
+}
+.header img{
+    width: 80px;
+    margin-left: -15px;
+    height: 80px;
+}
+.qualquernome{
+    background-color: white;
+    border-radius: 15px;
+    float: none;
+}
